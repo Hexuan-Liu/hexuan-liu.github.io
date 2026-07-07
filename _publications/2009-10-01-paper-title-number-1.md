@@ -2,7 +2,6 @@
 title: "Enumerative and distributional results for d-combining tree-child networks"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-d-combining-tree-child-networks
 date: 2024-06-01
 venue: 'Advances in Applied Mathematics'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0196885824000356'
