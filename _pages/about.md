@@ -11,8 +11,8 @@ Hi, I am a PhD student at the Department of Pure and Applied Mathematics, [Wased
 Before joining Waseda, I received my Master's degree from [National Chengchi University](https://www.nccu.edu.tw/index.php?Lang=en), Taiwan, under the supervision of [Prof. Michael Fuchs](https://web.math.nccu.edu.tw/mfuchs/) and my Bachelor's degree from [Lanzhou Universtiy](https://global.lzu.edu.cn/), China.
 
 My research interests include:
-- Phylogenetic combinatorics
-- Analytic combinatorics
+- Combinatorial phylogenetics
+- Analytic and enumerative combinatorics
 - Computational biology
 
 You can reach me at: lhx@ruri.waseda.jp
