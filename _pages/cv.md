@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-2023.10 -- present, Ph.D student in mathematics,  
+2023.10 - present, Ph.D student in mathematics,  
 Department of Pure and Applied Mathematics, Waseda University, Tokyo, Japan  
 Supervisor: [Dr. Momoko Hayamizu](https://researchmap.jp/momoko_hayamizu?lang=en)
  
-2019.09 -- 2022.06, Master in Mathematics,  
+2019.09 - 2022.06, Master in Mathematics,  
 Department of Mathematical Science, National Chengchi University, Taipei, Taiwan  
 Supervisor: [Prof. Michael Fuchs](https://web.math.nccu.edu.tw/mfuchs/)
  
     
-09.2014-06.2018 Bachelor in Mathematics, 
+2014.09 - 2018.06, Bachelor in Mathematics,  
 School of mathematics and statistics, Lanzhou University, Lanzhou, China
 
 Fellowships and Awards
