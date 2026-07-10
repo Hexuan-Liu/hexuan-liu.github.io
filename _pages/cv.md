@@ -29,20 +29,7 @@ Fellowships and Awards
 
 Publications and Talks
 ======
-See my [Publications](/publications/) and [Talks](/talks/) pages for a full list.
+Please see my [Publications](/publications/) and [Talks](/talks/) pages for a full list.
   
 
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 
