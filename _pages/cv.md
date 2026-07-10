@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-10.2023-present Ph.D student in mathematics, 
-Department of Pure and Applied Mathematics, Waseda University, Tokyo, Japan
+10.2023-present Ph.D student in mathematics,  
+Department of Pure and Applied Mathematics, Waseda University, Tokyo, Japan  
 Supervisor: [Dr. Momoko Hayamizu](https://researchmap.jp/momoko_hayamizu?lang=en)
  
 09.2019-06.2022 Master in Mathematics, 
