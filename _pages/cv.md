@@ -34,14 +34,13 @@ Host: [Dr. Michael Wallner](https://dmg.tuwien.ac.at/mwallner/)
 
 Fellowships
 ======
-Apr. 2025 – Mar. 2027, JSPS Research Fellowship for Young Scientists (DC2),<br>
-Japan Society for the Promotion of Science  
+Apr. 2025 – Mar. 2027, Research Fellowship for Young Scientists (DC2),<br>
+Japan Society for the Promotion of Science (JSPS)  
 <span style="padding-left: 1.5em; font-size: 0.95em;">— Grant-in-Aid for JSPS Fellows, KAKENHI JP25KJ2168</span>  
-<span style="padding-left: 1.5em; font-size: 0.95em;">— Merit-based Final-Year Special Allowance, 2026</span>
+<span style="padding-left: 1.5em; font-size: 0.95em;">— Merit-based Final-Year Special Allowance, 2026</span>  
 
-
-Sep. 2023 – Mar. 2025, JST SPRING Fellowship (W-SPRING),<br>
-Japan Science and Technology Agency & Waseda University
+Sep. 2023 – Mar. 2025, W-SPRING Fellowship,<br>
+Japan Science and Technology Agency (JST) & Waseda University
   
 Grants and Awards
 ======
