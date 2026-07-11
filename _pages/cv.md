@@ -38,8 +38,7 @@ Apr. 2025 – Mar. 2027, JSPS Research Fellowship for Young Scientists (DC2),<br
 Japan Society for the Promotion of Science  
 <span style="padding-left: 1.5em; font-size: 0.95em;">— Grant-in-Aid for JSPS Fellows, KAKENHI JP25KJ2168</span>  
 <span style="padding-left: 1.5em; font-size: 0.95em;">— Merit-based Final-Year Special Allowance, 2026</span>
-Sep. 2023 – Mar. 2025, JST SPRING Fellowship (W-SPRING),<br>
-Japan Science and Technology Agency & Waseda University
+
 
 Sep. 2023 – Mar. 2025, JST SPRING Fellowship (W-SPRING),<br>
 Japan Science and Technology Agency & Waseda University
