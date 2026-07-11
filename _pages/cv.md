@@ -34,11 +34,11 @@ Host: [Dr. Michael Wallner](https://dmg.tuwien.ac.at/mwallner/)
 
 Fellowships
 ======
-- JSPS Research Fellowship for Young Scientists (DC2),<br>
-  Japan Society for the Promotion of Science, Apr. 2025 – Mar. 2027
-- JST SPRING Fellowship (W-SPRING),<br>
-  Japan Science and Technology Agency & Waseda University, Sep. 2023 – Mar. 2025
-
+- Apr. 2025 – Mar. 2027, JSPS Research Fellowship for Young Scientists (DC2),<br>
+  Japan Society for the Promotion of Science
+- Sep. 2023 – Mar. 2025, JST SPRING Fellowship (W-SPRING),<br>
+  Japan Science and Technology Agency & Waseda University
+  
 Grants and Awards
 ======
 - W-SPRING Overseas Travel Grant, Waseda University, 2024
