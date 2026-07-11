@@ -34,15 +34,17 @@ Host: [Dr. Michael Wallner](https://dmg.tuwien.ac.at/mwallner/)
 
 Fellowships
 ======
-- Apr. 2025 – Mar. 2027, JSPS Research Fellowship for Young Scientists (DC2),<br>
-  Japan Society for the Promotion of Science
-- Sep. 2023 – Mar. 2025, JST SPRING Fellowship (W-SPRING),<br>
-  Japan Science and Technology Agency & Waseda University
+Apr. 2025 – Mar. 2027, JSPS Research Fellowship for Young Scientists (DC2),<br>
+Japan Society for the Promotion of Science  
+
+Sep. 2023 – Mar. 2025, JST SPRING Fellowship (W-SPRING),<br>
+Japan Science and Technology Agency & Waseda University
   
 Grants and Awards
 ======
-- W-SPRING Overseas Travel Grant, Waseda University, 2024
-- Best Thesis Award, College of Science, National Chengchi University, 2023
+W-SPRING Overseas Travel Grant, Waseda University, 2024  
+
+Best Thesis Award, College of Science, National Chengchi University, 2023
 
 Publications and Talks
 ======
