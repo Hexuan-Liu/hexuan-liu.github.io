@@ -22,6 +22,16 @@ Supervisor: [Prof. Michael Fuchs](https://web.math.nccu.edu.tw/mfuchs/)
 Sep. 2014 – Jun. 2018, B.S. in Mathematics,  
 School of Mathematics and Statistics, Lanzhou University, Lanzhou, China
 
+Research Visits
+======
+Nov. 2024 – Feb. 2025 & Nov. 2025 – Mar. 2026, Visiting PhD Student  
+School of Computing Sciences, University of East Anglia, Norwich, UK  
+Host: [Dr. Taoyang Wu](https://sites.google.com/site/taoyangwu/home?authuser=0)
+
+Sep. 2025 – Nov. 2025, Visiting PhD Student  
+Institute of Discrete Mathematics, Graz University of Technology, Graz, Austria  
+Host: [Dr. Michael Wallner](https://dmg.tuwien.ac.at/mwallner/)
+
 Fellowships
 ======
 - JSPS Research Fellowship for Young Scientists (DC2), Japan Society for the Promotion of Science, Apr. 2025 – Mar. 2027
