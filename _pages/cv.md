@@ -48,6 +48,6 @@ Japan Science and Technology Agency (JST) & Waseda University
 
 **Best Thesis Award**, College of Science, National Chengchi University, 2023
 
-<h1 style="color: #003366 !important;">Publications and Talks</h1>
+<h1 style="color: #375CAA !important;">Publications and Talks</h1>
 
 Please see my [Publications](/publications/) and [Talks](/talks/) pages for a full list.
