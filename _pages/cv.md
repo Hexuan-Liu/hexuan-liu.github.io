@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<h1 style="color: #003366 !important;">Education</h1>
+<h1 style="color: #375CAA !important;">Education</h1>
 
 **Ph.D. student in Mathematics**, Oct. 2023 – present  
 Department of Pure and Applied Mathematics, Waseda University, Tokyo, Japan  
@@ -22,7 +22,7 @@ Supervisor: [Prof. Michael Fuchs](https://web.math.nccu.edu.tw/mfuchs/)
 **B.S. in Mathematics**, Sep. 2014 – Jun. 2018  
 School of Mathematics and Statistics, Lanzhou University, Lanzhou, China
 
-<h1 style="color: #003366 !important;">Research Visits</h1>
+<h1 style="color: #375CAA !important;">Research Visits</h1>
 
 **Visiting PhD Student**, Nov. 2024 – Feb. 2025 & Nov. 2025 – Mar. 2026  
 School of Computing Sciences, University of East Anglia, Norwich, UK  
@@ -32,7 +32,7 @@ Host: [Dr. Taoyang Wu](https://sites.google.com/site/taoyangwu/home?authuser=0)
 Institute of Discrete Mathematics, Graz University of Technology, Graz, Austria  
 Host: [Dr. Michael Wallner](https://dmg.tuwien.ac.at/mwallner/)
 
-<h1 style="color: #003366 !important;">Fellowships</h1>
+<h1 style="color: #375CAA !important;">Fellowships</h1>
 
 **Research Fellowship for Young Scientists (DC2)**, Apr. 2025 – Mar. 2027  
 Japan Society for the Promotion of Science (JSPS)  
@@ -42,7 +42,7 @@ Japan Society for the Promotion of Science (JSPS)
 **W-SPRING Fellowship**, Sep. 2023 – Mar. 2025  
 Japan Science and Technology Agency (JST) & Waseda University
 
-<h1 style="color: #003366 !important;">Grants and Awards</h1>
+<h1 style="color: #375CAA !important;">Grants and Awards</h1>
 
 **W-SPRING Overseas Travel Grant**, Waseda University, 2024
 
