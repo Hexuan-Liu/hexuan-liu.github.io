@@ -39,8 +39,9 @@ Japan Society for the Promotion of Science (JSPS)
 <span style="padding-left: 1.5em; font-size: 0.95em;">— Grant-in-Aid for JSPS Fellows, KAKENHI JP25KJ2168</span>  
 <span style="padding-left: 1.5em; font-size: 0.95em;">— Merit-based Final-Year Special Allowance, 2026</span>
 
-**W-SPRING Fellowship (Highest Evaluation Tier)**, Sep. 2023 – Mar. 2025  
+**W-SPRING Fellowship**, Sep. 2023 – Mar. 2025  
 Japan Science and Technology Agency (JST) & Waseda University
+<span style="padding-left: 1.5em; font-size: 0.95em;">— Highest Evaluation Tier
 
 <h1 style="color: #375CAA !important;">Grants and Awards</h1>
 
