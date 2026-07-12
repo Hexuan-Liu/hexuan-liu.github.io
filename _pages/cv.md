@@ -24,7 +24,7 @@ School of Mathematics and Statistics, Lanzhou University, Lanzhou, China
 
 <h1 style="color: #375CAA !important;">Research Visits</h1>
 
-**Visiting PhD Student**, Nov. 2024 – Feb. 2025 & Nov. 2025 – Mar. 2026  
+**Visiting PhD Student**, Nov. 2024–Feb. 2025; Nov. 2025–Mar. 2026 
 School of Computing Sciences, University of East Anglia, Norwich, UK  
 Host: [Dr. Taoyang Wu](https://sites.google.com/site/taoyangwu/home?authuser=0)
 
