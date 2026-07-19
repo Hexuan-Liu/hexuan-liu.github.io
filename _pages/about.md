@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am Hexuan Liu (sounds like /həˈʃwɛn ˈljoʊ/), a PhD student at the Department of Pure and Applied Mathematics, [Waseda University](https://www.waseda.jp/top/en/), Japan, supervised by [Dr. Momoko Hayamizu](https://researchmap.jp/momoko_hayamizu?lang=en). I am also a JSPS Research Fellow funded by the [Japan Society for the Promotion of Science](https://www.jsps.go.jp/english/).
+Hi, I am Hexuan Liu (sounds like “huh-SHWEN lyoh”; IPA: /həˈʃwɛn ˈljoʊ/), a PhD student at the Department of Pure and Applied Mathematics, [Waseda University](https://www.waseda.jp/top/en/), Japan, supervised by [Dr. Momoko Hayamizu](https://researchmap.jp/momoko_hayamizu?lang=en). I am also a JSPS Research Fellow funded by the [Japan Society for the Promotion of Science](https://www.jsps.go.jp/english/).
 
 Before joining Waseda University, I received my Master's degree from [National Chengchi University](https://www.nccu.edu.tw/index.php?Lang=en), Taiwan, under the supervision of [Prof. Michael Fuchs](https://web.math.nccu.edu.tw/mfuchs/), and my Bachelor's degree from [Lanzhou University](https://global.lzu.edu.cn/), China.
 
