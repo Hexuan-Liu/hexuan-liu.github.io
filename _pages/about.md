@@ -10,6 +10,8 @@ Hi, I am Hexuan Liu (sounds like “huh-SHWEN lyoh”; IPA: /həˈʃwɛn ˈljoʊ
 
 Before joining Waseda University, I received my Master's degree from [National Chengchi University](https://www.nccu.edu.tw/index.php?Lang=en), Taiwan, under the supervision of [Prof. Michael Fuchs](https://web.math.nccu.edu.tw/mfuchs/), and my Bachelor's degree from [Lanzhou University](https://global.lzu.edu.cn/), China.
 
+I grew up in Fuxin, a multiethnic city in northeastern China with a long history of coal mining. My studies and research have since taken me to Lanzhou, Taipei, Kaohsiung, Tokyo, Norwich, Graz, and Vienna.
+
 ## Research Interests
 
 - Combinatorial phylogenetics
